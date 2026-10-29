@@ -1,0 +1,2200 @@
+[
+  {
+    "id": 1,
+    "title": "10 År Senere",
+    "genre": "Historisk / drama",
+    "seasons": 1,
+    "notes": ""
+  },
+  {
+    "id": 2,
+    "title": "13 Reasons Why",
+    "genre": "Historisk / drama",
+    "seasons": 1,
+    "notes": ""
+  },
+  {
+    "id": 3,
+    "title": "3 Body Problem",
+    "genre": "Science fiction",
+    "seasons": 1,
+    "notes": ""
+  },
+  {
+    "id": 4,
+    "title": "30 Coins",
+    "genre": "Horror",
+    "seasons": 1,
+    "notes": ""
+  },
+  {
+    "id": 5,
+    "title": "8 Tages",
+    "genre": "Historisk / drama",
+    "seasons": 1,
+    "notes": ""
+  },
+  {
+    "id": 6,
+    "title": "A Knight of The Seven Kingdoms",
+    "genre": "Fantasy",
+    "seasons": 1,
+    "notes": ""
+  },
+  {
+    "id": 7,
+    "title": "A Series of Unfortunate Events",
+    "genre": "Fantasy",
+    "seasons": 3,
+    "notes": ""
+  },
+  {
+    "id": 8,
+    "title": "A Thousand Fangs",
+    "genre": "Horror",
+    "seasons": 1,
+    "notes": ""
+  },
+  {
+    "id": 9,
+    "title": "Adventure Time",
+    "genre": "Animation",
+    "seasons": 9,
+    "notes": ""
+  },
+  {
+    "id": 10,
+    "title": "After Life",
+    "genre": "Komedie",
+    "seasons": 2,
+    "notes": ""
+  },
+  {
+    "id": 11,
+    "title": "Agatha All Along",
+    "genre": "Fantasy",
+    "seasons": 1,
+    "notes": ""
+  },
+  {
+    "id": 12,
+    "title": "Agent Carter",
+    "genre": "Superhelte",
+    "seasons": 2,
+    "notes": ""
+  },
+  {
+    "id": 13,
+    "title": "Alice in Borderland",
+    "genre": "Mysterie",
+    "seasons": 3,
+    "notes": ""
+  },
+  {
+    "id": 14,
+    "title": "All the Light We Cannot See",
+    "genre": "Historisk / drama",
+    "seasons": 1,
+    "notes": ""
+  },
+  {
+    "id": 15,
+    "title": "Altered Carbon",
+    "genre": "Science fiction",
+    "seasons": 2,
+    "notes": ""
+  },
+  {
+    "id": 16,
+    "title": "American Gods",
+    "genre": "Fantasy",
+    "seasons": 3,
+    "notes": ""
+  },
+  {
+    "id": 17,
+    "title": "American Horror Storries",
+    "genre": "Horror",
+    "seasons": 1,
+    "notes": ""
+  },
+  {
+    "id": 18,
+    "title": "American Horror Story",
+    "genre": "Horror",
+    "seasons": 10,
+    "notes": ""
+  },
+  {
+    "id": 19,
+    "title": "Animal Kingdom",
+    "genre": "Krimi / thriller",
+    "seasons": 3,
+    "notes": ""
+  },
+  {
+    "id": 20,
+    "title": "Anna",
+    "genre": "Horror",
+    "seasons": 1,
+    "notes": ""
+  },
+  {
+    "id": 21,
+    "title": "Another Life",
+    "genre": "Science fiction",
+    "seasons": 1,
+    "notes": ""
+  },
+  {
+    "id": 22,
+    "title": "Apple Cider Vinegar",
+    "genre": "Historisk / drama",
+    "seasons": 1,
+    "notes": ""
+  },
+  {
+    "id": 23,
+    "title": "Archive 81",
+    "genre": "Horror",
+    "seasons": 1,
+    "notes": ""
+  },
+  {
+    "id": 24,
+    "title": "Arrow",
+    "genre": "Superhelte",
+    "seasons": 2,
+    "notes": ""
+  },
+  {
+    "id": 25,
+    "title": "Asterix & Obelix Tvekampen",
+    "genre": "Animation",
+    "seasons": 1,
+    "notes": ""
+  },
+  {
+    "id": 26,
+    "title": "Atypical",
+    "genre": "Komedie",
+    "seasons": 2,
+    "notes": ""
+  },
+  {
+    "id": 27,
+    "title": "Avatar: The Last Airbender",
+    "genre": "Fantasy",
+    "seasons": 1,
+    "notes": ""
+  },
+  {
+    "id": 28,
+    "title": "Avenue 5",
+    "genre": "Komedie",
+    "seasons": 2,
+    "notes": ""
+  },
+  {
+    "id": 29,
+    "title": "Baby Reindeer",
+    "genre": "Krimi / thriller",
+    "seasons": 1,
+    "notes": ""
+  },
+  {
+    "id": 30,
+    "title": "Band of Brothers",
+    "genre": "Historisk / drama",
+    "seasons": 1,
+    "notes": ""
+  },
+  {
+    "id": 31,
+    "title": "Barbarians",
+    "genre": "Historisk / drama",
+    "seasons": 2,
+    "notes": ""
+  },
+  {
+    "id": 32,
+    "title": "Beef",
+    "genre": "Komedie",
+    "seasons": 1,
+    "notes": ""
+  },
+  {
+    "id": 33,
+    "title": "Behind Her Eyes",
+    "genre": "Mysterie",
+    "seasons": 1,
+    "notes": ""
+  },
+  {
+    "id": 34,
+    "title": "Better Call Saul",
+    "genre": "Krimi / thriller",
+    "seasons": 6,
+    "notes": ""
+  },
+  {
+    "id": 35,
+    "title": "Between",
+    "genre": "Science fiction",
+    "seasons": 1,
+    "notes": ""
+  },
+  {
+    "id": 36,
+    "title": "Big Mouth",
+    "genre": "Animation",
+    "seasons": 5,
+    "notes": ""
+  },
+  {
+    "id": 37,
+    "title": "Billions",
+    "genre": "Krimi / thriller",
+    "seasons": 5,
+    "notes": ""
+  },
+  {
+    "id": 38,
+    "title": "Black Lightning",
+    "genre": "Superhelte",
+    "seasons": 1,
+    "notes": ""
+  },
+  {
+    "id": 39,
+    "title": "Black Mirror",
+    "genre": "Science fiction",
+    "seasons": 7,
+    "notes": ""
+  },
+  {
+    "id": 40,
+    "title": "Black Sails",
+    "genre": "Historisk / drama",
+    "seasons": 4,
+    "notes": ""
+  },
+  {
+    "id": 41,
+    "title": "Black Summer",
+    "genre": "Horror",
+    "seasons": 1,
+    "notes": ""
+  },
+  {
+    "id": 42,
+    "title": "Blood of Zeus",
+    "genre": "Fantasy",
+    "seasons": 3,
+    "notes": ""
+  },
+  {
+    "id": 43,
+    "title": "Boba Fett",
+    "genre": "Science fiction",
+    "seasons": 1,
+    "notes": ""
+  },
+  {
+    "id": 44,
+    "title": "Bobs Burger",
+    "genre": "Animation",
+    "seasons": 3,
+    "notes": ""
+  },
+  {
+    "id": 45,
+    "title": "BoJack Horseman",
+    "genre": "Animation",
+    "seasons": 6,
+    "notes": ""
+  },
+  {
+    "id": 46,
+    "title": "Boy Swallows the Univers",
+    "genre": "Historisk / drama",
+    "seasons": 1,
+    "notes": ""
+  },
+  {
+    "id": 47,
+    "title": "Breaking Bad",
+    "genre": "Krimi / thriller",
+    "seasons": 5,
+    "notes": ""
+  },
+  {
+    "id": 48,
+    "title": "Breeders",
+    "genre": "Komedie",
+    "seasons": 2,
+    "notes": ""
+  },
+  {
+    "id": 49,
+    "title": "Britannia",
+    "genre": "Fantasy",
+    "seasons": 3,
+    "notes": ""
+  },
+  {
+    "id": 50,
+    "title": "Cassandra",
+    "genre": "Science fiction",
+    "seasons": 1,
+    "notes": ""
+  },
+  {
+    "id": 51,
+    "title": "Castle Rock",
+    "genre": "Horror",
+    "seasons": 2,
+    "notes": ""
+  },
+  {
+    "id": 52,
+    "title": "Channel Zero",
+    "genre": "Horror",
+    "seasons": 4,
+    "notes": ""
+  },
+  {
+    "id": 53,
+    "title": "Clark",
+    "genre": "Krimi / thriller",
+    "seasons": 1,
+    "notes": ""
+  },
+  {
+    "id": 54,
+    "title": "Colin in Black and White",
+    "genre": "Historisk / drama",
+    "seasons": 1,
+    "notes": ""
+  },
+  {
+    "id": 55,
+    "title": "Colony",
+    "genre": "Science fiction",
+    "seasons": 2,
+    "notes": ""
+  },
+  {
+    "id": 56,
+    "title": "Community",
+    "genre": "Komedie",
+    "seasons": 4,
+    "notes": ""
+  },
+  {
+    "id": 57,
+    "title": "Continuum",
+    "genre": "Science fiction",
+    "seasons": 4,
+    "notes": ""
+  },
+  {
+    "id": 58,
+    "title": "Daredevil",
+    "genre": "Superhelte",
+    "seasons": 3,
+    "notes": ""
+  },
+  {
+    "id": 59,
+    "title": "Dark",
+    "genre": "Science fiction",
+    "seasons": 3,
+    "notes": ""
+  },
+  {
+    "id": 60,
+    "title": "Dark Matter",
+    "genre": "Science fiction",
+    "seasons": 1,
+    "notes": ""
+  },
+  {
+    "id": 61,
+    "title": "DC Legends Of Tomorrow",
+    "genre": "Superhelte",
+    "seasons": 3,
+    "notes": ""
+  },
+  {
+    "id": 62,
+    "title": "Defenders",
+    "genre": "Superhelte",
+    "seasons": 1,
+    "notes": ""
+  },
+  {
+    "id": 63,
+    "title": "Den Som Dræber (2019)",
+    "genre": "Krimi / thriller",
+    "seasons": 3,
+    "notes": ""
+  },
+  {
+    "id": 64,
+    "title": "Dirk Gentlys Holistic Detective Agency",
+    "genre": "Mysterie",
+    "seasons": 2,
+    "notes": ""
+  },
+  {
+    "id": 65,
+    "title": "Disenchantment",
+    "genre": "Animation",
+    "seasons": 5,
+    "notes": ""
+  },
+  {
+    "id": 66,
+    "title": "Dispatches From Elsewhere",
+    "genre": "Mysterie",
+    "seasons": 1,
+    "notes": ""
+  },
+  {
+    "id": 67,
+    "title": "Domination",
+    "genre": "Drama",
+    "seasons": 2,
+    "notes": ""
+  },
+  {
+    "id": 68,
+    "title": "Dont Watch This",
+    "genre": "Horror",
+    "seasons": 1,
+    "notes": ""
+  },
+  {
+    "id": 69,
+    "title": "Doom Patrol",
+    "genre": "Superhelte",
+    "seasons": 4,
+    "notes": ""
+  },
+  {
+    "id": 70,
+    "title": "Dragon Ball",
+    "genre": "Animation",
+    "seasons": 0,
+    "notes": ""
+  },
+  {
+    "id": 71,
+    "title": "Dragon Ball GT",
+    "genre": "Animation",
+    "seasons": 0,
+    "notes": ""
+  },
+  {
+    "id": 72,
+    "title": "Dragon Ball Kai",
+    "genre": "Animation",
+    "seasons": 0,
+    "notes": ""
+  },
+  {
+    "id": 73,
+    "title": "Dragon Ball Super",
+    "genre": "Animation",
+    "seasons": 0,
+    "notes": ""
+  },
+  {
+    "id": 74,
+    "title": "Dragon Ball Z",
+    "genre": "Animation",
+    "seasons": 0,
+    "notes": ""
+  },
+  {
+    "id": 75,
+    "title": "Drawn Together",
+    "genre": "Animation",
+    "seasons": 0,
+    "notes": ""
+  },
+  {
+    "id": 76,
+    "title": "El Refugio atomico (Milliadærbunkeren)",
+    "genre": "Thriller",
+    "seasons": 1,
+    "notes": ""
+  },
+  {
+    "id": 77,
+    "title": "Emerald City",
+    "genre": "Fantasy",
+    "seasons": 1,
+    "notes": ""
+  },
+  {
+    "id": 78,
+    "title": "Equinox",
+    "genre": "Mysterie",
+    "seasons": 1,
+    "notes": ""
+  },
+  {
+    "id": 79,
+    "title": "Euphoria",
+    "genre": "Historisk / drama",
+    "seasons": 1,
+    "notes": ""
+  },
+  {
+    "id": 80,
+    "title": "Extant",
+    "genre": "Science fiction",
+    "seasons": 1,
+    "notes": ""
+  },
+  {
+    "id": 81,
+    "title": "Falling Water",
+    "genre": "Mysterie",
+    "seasons": 2,
+    "notes": ""
+  },
+  {
+    "id": 82,
+    "title": "Fallout",
+    "genre": "Science fiction",
+    "seasons": 2,
+    "notes": ""
+  },
+  {
+    "id": 83,
+    "title": "Fargo",
+    "genre": "Krimi / thriller",
+    "seasons": 2,
+    "notes": ""
+  },
+  {
+    "id": 84,
+    "title": "Fear the Walking Dead",
+    "genre": "Horror",
+    "seasons": 8,
+    "notes": ""
+  },
+  {
+    "id": 85,
+    "title": "Final Space",
+    "genre": "Science fiction",
+    "seasons": 2,
+    "notes": ""
+  },
+  {
+    "id": 86,
+    "title": "Freud",
+    "genre": "Krimi / thriller",
+    "seasons": 1,
+    "notes": ""
+  },
+  {
+    "id": 87,
+    "title": "Friends",
+    "genre": "Komedie",
+    "seasons": 10,
+    "notes": ""
+  },
+  {
+    "id": 88,
+    "title": "From",
+    "genre": "Horror",
+    "seasons": 4,
+    "notes": ""
+  },
+  {
+    "id": 89,
+    "title": "Futurama",
+    "genre": "Animation",
+    "seasons": 7,
+    "notes": ""
+  },
+  {
+    "id": 90,
+    "title": "Futureman",
+    "genre": "Science fiction",
+    "seasons": 2,
+    "notes": ""
+  },
+  {
+    "id": 91,
+    "title": "Game of Thrones",
+    "genre": "Fantasy",
+    "seasons": 8,
+    "notes": ""
+  },
+  {
+    "id": 92,
+    "title": "Go on",
+    "genre": "Komedie",
+    "seasons": 1,
+    "notes": ""
+  },
+  {
+    "id": 93,
+    "title": "Good Omens",
+    "genre": "Fantasy",
+    "seasons": 1,
+    "notes": ""
+  },
+  {
+    "id": 94,
+    "title": "Gotham",
+    "genre": "Superhelte",
+    "seasons": 3,
+    "notes": ""
+  },
+  {
+    "id": 95,
+    "title": "Gypsy",
+    "genre": "Krimi / thriller",
+    "seasons": 1,
+    "notes": ""
+  },
+  {
+    "id": 96,
+    "title": "Halo",
+    "genre": "Action / eventyr",
+    "seasons": 2,
+    "notes": ""
+  },
+  {
+    "id": 97,
+    "title": "Haunting of Hill House",
+    "genre": "Horror",
+    "seasons": 1,
+    "notes": ""
+  },
+  {
+    "id": 98,
+    "title": "Helix",
+    "genre": "Science fiction",
+    "seasons": 2,
+    "notes": ""
+  },
+  {
+    "id": 99,
+    "title": "Heroes",
+    "genre": "Superhelte",
+    "seasons": 4,
+    "notes": ""
+  },
+  {
+    "id": 100,
+    "title": "Heroes Reborn",
+    "genre": "Superhelte",
+    "seasons": 1,
+    "notes": ""
+  },
+  {
+    "id": 101,
+    "title": "His & Hers",
+    "genre": "Krimi / thriller",
+    "seasons": 1,
+    "notes": ""
+  },
+  {
+    "id": 102,
+    "title": "His Dark Materials",
+    "genre": "Fantasy",
+    "seasons": 2,
+    "notes": ""
+  },
+  {
+    "id": 103,
+    "title": "House of the Dragon",
+    "genre": "Fantasy",
+    "seasons": 1,
+    "notes": ""
+  },
+  {
+    "id": 104,
+    "title": "How I Met Your Mother",
+    "genre": "Komedie",
+    "seasons": 9,
+    "notes": ""
+  },
+  {
+    "id": 105,
+    "title": "Hvide Sande",
+    "genre": "Krimi / thriller",
+    "seasons": 1,
+    "notes": ""
+  },
+  {
+    "id": 106,
+    "title": "Hånd I Hånd",
+    "genre": "Komedie",
+    "seasons": 1,
+    "notes": ""
+  },
+  {
+    "id": 107,
+    "title": "Inside Job",
+    "genre": "Animation",
+    "seasons": 1,
+    "notes": ""
+  },
+  {
+    "id": 108,
+    "title": "Into the Badlands",
+    "genre": "Action / eventyr",
+    "seasons": 2,
+    "notes": ""
+  },
+  {
+    "id": 109,
+    "title": "Into The Dark",
+    "genre": "Horror",
+    "seasons": 1,
+    "notes": ""
+  },
+  {
+    "id": 110,
+    "title": "Into The Night",
+    "genre": "Science fiction",
+    "seasons": 1,
+    "notes": ""
+  },
+  {
+    "id": 111,
+    "title": "Invasion",
+    "genre": "Science fiction",
+    "seasons": 1,
+    "notes": ""
+  },
+  {
+    "id": 112,
+    "title": "Inventing Anna",
+    "genre": "Historisk / drama",
+    "seasons": 1,
+    "notes": ""
+  },
+  {
+    "id": 113,
+    "title": "Iron Fist",
+    "genre": "Superhelte",
+    "seasons": 2,
+    "notes": ""
+  },
+  {
+    "id": 114,
+    "title": "IT Welcome To Derry",
+    "genre": "Horror",
+    "seasons": 1,
+    "notes": ""
+  },
+  {
+    "id": 115,
+    "title": "Jean Claude Van Johnson",
+    "genre": "Komedie",
+    "seasons": 1,
+    "notes": ""
+  },
+  {
+    "id": 116,
+    "title": "Jericho",
+    "genre": "Science fiction",
+    "seasons": 2,
+    "notes": ""
+  },
+  {
+    "id": 117,
+    "title": "Jessica Jones",
+    "genre": "Superhelte",
+    "seasons": 2,
+    "notes": ""
+  },
+  {
+    "id": 118,
+    "title": "Jupiters Legacy",
+    "genre": "Superhelte",
+    "seasons": 1,
+    "notes": ""
+  },
+  {
+    "id": 119,
+    "title": "Kaos",
+    "genre": "Fantasy",
+    "seasons": 1,
+    "notes": ""
+  },
+  {
+    "id": 120,
+    "title": "Kastanjemanden",
+    "genre": "Krimi / thriller",
+    "seasons": 1,
+    "notes": ""
+  },
+  {
+    "id": 121,
+    "title": "Katla",
+    "genre": "Fantasy",
+    "seasons": 3,
+    "notes": ""
+  },
+  {
+    "id": 122,
+    "title": "Keep Breathing",
+    "genre": "Mysterie",
+    "seasons": 1,
+    "notes": ""
+  },
+  {
+    "id": 123,
+    "title": "Kidding",
+    "genre": "Komedie",
+    "seasons": 2,
+    "notes": ""
+  },
+  {
+    "id": 124,
+    "title": "Knightfall",
+    "genre": "Historisk / drama",
+    "seasons": 0,
+    "notes": ""
+  },
+  {
+    "id": 125,
+    "title": "Kotaro Lives Alone",
+    "genre": "Animation",
+    "seasons": 1,
+    "notes": ""
+  },
+  {
+    "id": 126,
+    "title": "Krypton",
+    "genre": "Superhelte",
+    "seasons": 0,
+    "notes": ""
+  },
+  {
+    "id": 127,
+    "title": "Lazarus",
+    "genre": "Action / eventyr",
+    "seasons": 1,
+    "notes": ""
+  },
+  {
+    "id": 128,
+    "title": "Legion",
+    "genre": "Superhelte",
+    "seasons": 3,
+    "notes": ""
+  },
+  {
+    "id": 129,
+    "title": "Liars",
+    "genre": "Krimi / thriller",
+    "seasons": 1,
+    "notes": ""
+  },
+  {
+    "id": 130,
+    "title": "Lie To Me",
+    "genre": "Krimi / thriller",
+    "seasons": 3,
+    "notes": ""
+  },
+  {
+    "id": 131,
+    "title": "Living With Yourself",
+    "genre": "Mysterie",
+    "seasons": 1,
+    "notes": ""
+  },
+  {
+    "id": 132,
+    "title": "Locke And Key",
+    "genre": "Fantasy",
+    "seasons": 1,
+    "notes": ""
+  },
+  {
+    "id": 133,
+    "title": "Lockwood & Co.",
+    "genre": "Fantasy",
+    "seasons": 1,
+    "notes": ""
+  },
+  {
+    "id": 134,
+    "title": "Loki",
+    "genre": "Superhelte",
+    "seasons": 1,
+    "notes": ""
+  },
+  {
+    "id": 135,
+    "title": "Lost",
+    "genre": "Mysterie",
+    "seasons": 6,
+    "notes": ""
+  },
+  {
+    "id": 136,
+    "title": "Lost In Space",
+    "genre": "Science fiction",
+    "seasons": 1,
+    "notes": ""
+  },
+  {
+    "id": 137,
+    "title": "Love",
+    "genre": "Komedie",
+    "seasons": 3,
+    "notes": ""
+  },
+  {
+    "id": 138,
+    "title": "Love Death + Robots",
+    "genre": "Animation",
+    "seasons": 3,
+    "notes": ""
+  },
+  {
+    "id": 139,
+    "title": "Lucifer",
+    "genre": "Fantasy",
+    "seasons": 6,
+    "notes": ""
+  },
+  {
+    "id": 140,
+    "title": "Luke Cage",
+    "genre": "Superhelte",
+    "seasons": 2,
+    "notes": ""
+  },
+  {
+    "id": 141,
+    "title": "Mad Men",
+    "genre": "Historisk / drama",
+    "seasons": 2,
+    "notes": ""
+  },
+  {
+    "id": 142,
+    "title": "Mandalorian",
+    "genre": "Science fiction",
+    "seasons": 3,
+    "notes": ""
+  },
+  {
+    "id": 143,
+    "title": "Maniac",
+    "genre": "Science fiction",
+    "seasons": 1,
+    "notes": ""
+  },
+  {
+    "id": 144,
+    "title": "Marco Polo",
+    "genre": "Historisk / drama",
+    "seasons": 2,
+    "notes": ""
+  },
+  {
+    "id": 145,
+    "title": "Margo's Got Money Troubles",
+    "genre": "Komedie",
+    "seasons": 1,
+    "notes": ""
+  },
+  {
+    "id": 146,
+    "title": "Marvels Runaways",
+    "genre": "Superhelte",
+    "seasons": 3,
+    "notes": ""
+  },
+  {
+    "id": 147,
+    "title": "Merlin",
+    "genre": "Fantasy",
+    "seasons": 1,
+    "notes": ""
+  },
+  {
+    "id": 148,
+    "title": "Midnight Mass",
+    "genre": "Horror",
+    "seasons": 1,
+    "notes": ""
+  },
+  {
+    "id": 149,
+    "title": "Mindhunter",
+    "genre": "Krimi / thriller",
+    "seasons": 1,
+    "notes": ""
+  },
+  {
+    "id": 150,
+    "title": "Minkavlerne",
+    "genre": "Komedie",
+    "seasons": 3,
+    "notes": ""
+  },
+  {
+    "id": 151,
+    "title": "Miracle Workers",
+    "genre": "Fantasy",
+    "seasons": 2,
+    "notes": ""
+  },
+  {
+    "id": 152,
+    "title": "Misfits",
+    "genre": "Superhelte",
+    "seasons": 5,
+    "notes": ""
+  },
+  {
+    "id": 153,
+    "title": "Modern Family",
+    "genre": "Komedie",
+    "seasons": 10,
+    "notes": ""
+  },
+  {
+    "id": 154,
+    "title": "Moon Knight",
+    "genre": "Superhelte",
+    "seasons": 1,
+    "notes": ""
+  },
+  {
+    "id": 155,
+    "title": "Mr. & Mrs Smith",
+    "genre": "Action / eventyr",
+    "seasons": 1,
+    "notes": ""
+  },
+  {
+    "id": 156,
+    "title": "Mr. Robot",
+    "genre": "Science fiction",
+    "seasons": 1,
+    "notes": ""
+  },
+  {
+    "id": 157,
+    "title": "Murderbot",
+    "genre": "Science fiction",
+    "seasons": 1,
+    "notes": ""
+  },
+  {
+    "id": 158,
+    "title": "Narcos",
+    "genre": "Krimi / thriller",
+    "seasons": 1,
+    "notes": ""
+  },
+  {
+    "id": 159,
+    "title": "Night Sky",
+    "genre": "Science fiction",
+    "seasons": 1,
+    "notes": ""
+  },
+  {
+    "id": 160,
+    "title": "Nightflyers",
+    "genre": "Science fiction",
+    "seasons": 1,
+    "notes": ""
+  },
+  {
+    "id": 161,
+    "title": "Nine Perfect Strangers",
+    "genre": "Mysterie",
+    "seasons": 1,
+    "notes": ""
+  },
+  {
+    "id": 162,
+    "title": "Nisser",
+    "genre": "Horror",
+    "seasons": 1,
+    "notes": ""
+  },
+  {
+    "id": 163,
+    "title": "Nobodys Looking",
+    "genre": "Komedie",
+    "seasons": 1,
+    "notes": ""
+  },
+  {
+    "id": 164,
+    "title": "Oats Studio",
+    "genre": "Science fiction",
+    "seasons": 1,
+    "notes": ""
+  },
+  {
+    "id": 165,
+    "title": "Obi-Wan Kenobi",
+    "genre": "Science fiction",
+    "seasons": 1,
+    "notes": ""
+  },
+  {
+    "id": 166,
+    "title": "One Piece",
+    "genre": "Animation",
+    "seasons": 2,
+    "notes": ""
+  },
+  {
+    "id": 167,
+    "title": "One Punch Man",
+    "genre": "Animation",
+    "seasons": 0,
+    "notes": ""
+  },
+  {
+    "id": 168,
+    "title": "Orange Is the New Black",
+    "genre": "Historisk / drama",
+    "seasons": 7,
+    "notes": ""
+  },
+  {
+    "id": 169,
+    "title": "Orphan Black",
+    "genre": "Science fiction",
+    "seasons": 2,
+    "notes": ""
+  },
+  {
+    "id": 170,
+    "title": "Outer Banks",
+    "genre": "Krimi / thriller",
+    "seasons": 5,
+    "notes": ""
+  },
+  {
+    "id": 171,
+    "title": "OutLander",
+    "genre": "Historisk / drama",
+    "seasons": 6,
+    "notes": ""
+  },
+  {
+    "id": 172,
+    "title": "Ozark",
+    "genre": "Krimi / thriller",
+    "seasons": 4,
+    "notes": ""
+  },
+  {
+    "id": 173,
+    "title": "Peaky Blinders",
+    "genre": "Krimi / thriller",
+    "seasons": 6,
+    "notes": ""
+  },
+  {
+    "id": 174,
+    "title": "Pluribus",
+    "genre": "Science fiction",
+    "seasons": 1,
+    "notes": ""
+  },
+  {
+    "id": 175,
+    "title": "Pokemon - Sun and Moon",
+    "genre": "Animation",
+    "seasons": 3,
+    "notes": ""
+  },
+  {
+    "id": 176,
+    "title": "Pokemon Indigo League",
+    "genre": "Animation",
+    "seasons": 1,
+    "notes": ""
+  },
+  {
+    "id": 177,
+    "title": "Pokemon Journeys: The Series",
+    "genre": "Animation",
+    "seasons": 4,
+    "notes": ""
+  },
+  {
+    "id": 178,
+    "title": "Pokemon Master Journeys The Series",
+    "genre": "Animation",
+    "seasons": 1,
+    "notes": ""
+  },
+  {
+    "id": 179,
+    "title": "Preacher",
+    "genre": "Fantasy",
+    "seasons": 4,
+    "notes": ""
+  },
+  {
+    "id": 180,
+    "title": "Pretty Little Liars",
+    "genre": "Krimi / thriller",
+    "seasons": 7,
+    "notes": ""
+  },
+  {
+    "id": 181,
+    "title": "Prison Break",
+    "genre": "Krimi / thriller",
+    "seasons": 4,
+    "notes": ""
+  },
+  {
+    "id": 182,
+    "title": "Prison Break Sequel",
+    "genre": "Krimi / thriller",
+    "seasons": 1,
+    "notes": ""
+  },
+  {
+    "id": 183,
+    "title": "Queen's Gambit",
+    "genre": "Historisk / drama",
+    "seasons": 1,
+    "notes": ""
+  },
+  {
+    "id": 184,
+    "title": "Ragnarok",
+    "genre": "Fantasy",
+    "seasons": 2,
+    "notes": ""
+  },
+  {
+    "id": 185,
+    "title": "Raised by Wolves",
+    "genre": "Science fiction",
+    "seasons": 2,
+    "notes": ""
+  },
+  {
+    "id": 186,
+    "title": "Ratched",
+    "genre": "Horror",
+    "seasons": 1,
+    "notes": ""
+  },
+  {
+    "id": 187,
+    "title": "Red Rose",
+    "genre": "Horror",
+    "seasons": 1,
+    "notes": ""
+  },
+  {
+    "id": 188,
+    "title": "Revolution",
+    "genre": "Science fiction",
+    "seasons": 2,
+    "notes": ""
+  },
+  {
+    "id": 189,
+    "title": "Rick And Morty",
+    "genre": "Animation",
+    "seasons": 7,
+    "notes": ""
+  },
+  {
+    "id": 190,
+    "title": "Riverdale",
+    "genre": "Krimi / thriller",
+    "seasons": 0,
+    "notes": ""
+  },
+  {
+    "id": 191,
+    "title": "Roman Empire",
+    "genre": "Historisk / drama",
+    "seasons": 3,
+    "notes": ""
+  },
+  {
+    "id": 192,
+    "title": "Rookie",
+    "genre": "Krimi / thriller",
+    "seasons": 5,
+    "notes": ""
+  },
+  {
+    "id": 193,
+    "title": "Russian Doll",
+    "genre": "Mysterie",
+    "seasons": 2,
+    "notes": ""
+  },
+  {
+    "id": 194,
+    "title": "Salem",
+    "genre": "Horror",
+    "seasons": 2,
+    "notes": ""
+  },
+  {
+    "id": 195,
+    "title": "Santa Clarita Diet",
+    "genre": "Horror",
+    "seasons": 3,
+    "notes": ""
+  },
+  {
+    "id": 196,
+    "title": "Scream",
+    "genre": "Horror",
+    "seasons": 2,
+    "notes": ""
+  },
+  {
+    "id": 197,
+    "title": "Scrubs",
+    "genre": "Komedie",
+    "seasons": 0,
+    "notes": ""
+  },
+  {
+    "id": 198,
+    "title": "Sense 8",
+    "genre": "Science fiction",
+    "seasons": 2,
+    "notes": ""
+  },
+  {
+    "id": 199,
+    "title": "Severance",
+    "genre": "Science fiction",
+    "seasons": 2,
+    "notes": ""
+  },
+  {
+    "id": 200,
+    "title": "Sex Education",
+    "genre": "Komedie",
+    "seasons": 1,
+    "notes": ""
+  },
+  {
+    "id": 201,
+    "title": "Shadow and Bone",
+    "genre": "Fantasy",
+    "seasons": 1,
+    "notes": ""
+  },
+  {
+    "id": 202,
+    "title": "Shadow Hunters",
+    "genre": "Fantasy",
+    "seasons": 3,
+    "notes": ""
+  },
+  {
+    "id": 203,
+    "title": "Shameless",
+    "genre": "Komedie",
+    "seasons": 11,
+    "notes": ""
+  },
+  {
+    "id": 204,
+    "title": "Shannara Chronicles",
+    "genre": "Fantasy",
+    "seasons": 1,
+    "notes": ""
+  },
+  {
+    "id": 205,
+    "title": "Shōgun",
+    "genre": "Historisk / drama",
+    "seasons": 1,
+    "notes": ""
+  },
+  {
+    "id": 206,
+    "title": "Silo",
+    "genre": "Science fiction",
+    "seasons": 2,
+    "notes": ""
+  },
+  {
+    "id": 207,
+    "title": "Smiling Friends",
+    "genre": "Animation",
+    "seasons": 1,
+    "notes": ""
+  },
+  {
+    "id": 208,
+    "title": "Snowpiercer",
+    "genre": "Science fiction",
+    "seasons": 3,
+    "notes": ""
+  },
+  {
+    "id": 209,
+    "title": "Solar Opposides",
+    "genre": "Animation",
+    "seasons": 5,
+    "notes": ""
+  },
+  {
+    "id": 210,
+    "title": "Solos",
+    "genre": "Science fiction",
+    "seasons": 1,
+    "notes": ""
+  },
+  {
+    "id": 211,
+    "title": "Something Very Bad is Going to Happen",
+    "genre": "Horror",
+    "seasons": 1,
+    "notes": ""
+  },
+  {
+    "id": 212,
+    "title": "South Park",
+    "genre": "Animation",
+    "seasons": 23,
+    "notes": ""
+  },
+  {
+    "id": 213,
+    "title": "Spartacus",
+    "genre": "Historisk / drama",
+    "seasons": 0,
+    "notes": ""
+  },
+  {
+    "id": 214,
+    "title": "Squid Game",
+    "genre": "Thriller",
+    "seasons": 3,
+    "notes": ""
+  },
+  {
+    "id": 215,
+    "title": "Star Trek - Disovery",
+    "genre": "Science fiction",
+    "seasons": 0,
+    "notes": ""
+  },
+  {
+    "id": 216,
+    "title": "Star Trek - Lower Decks",
+    "genre": "Science fiction",
+    "seasons": 2,
+    "notes": ""
+  },
+  {
+    "id": 217,
+    "title": "Stargate Universe",
+    "genre": "Science fiction",
+    "seasons": 2,
+    "notes": ""
+  },
+  {
+    "id": 218,
+    "title": "Startrek - Picard",
+    "genre": "Science fiction",
+    "seasons": 3,
+    "notes": ""
+  },
+  {
+    "id": 219,
+    "title": "Stateless",
+    "genre": "Historisk / drama",
+    "seasons": 1,
+    "notes": ""
+  },
+  {
+    "id": 220,
+    "title": "Stranger Things",
+    "genre": "Science fiction",
+    "seasons": 5,
+    "notes": ""
+  },
+  {
+    "id": 221,
+    "title": "Suits",
+    "genre": "Krimi / thriller",
+    "seasons": 9,
+    "notes": ""
+  },
+  {
+    "id": 222,
+    "title": "Super Dragon Ball Heroes",
+    "genre": "Animation",
+    "seasons": 0,
+    "notes": ""
+  },
+  {
+    "id": 223,
+    "title": "Supernatural",
+    "genre": "Fantasy",
+    "seasons": 0,
+    "notes": ""
+  },
+  {
+    "id": 224,
+    "title": "Swamp Thing",
+    "genre": "Fantasy",
+    "seasons": 1,
+    "notes": ""
+  },
+  {
+    "id": 225,
+    "title": "Sweet Tooth",
+    "genre": "Fantasy",
+    "seasons": 1,
+    "notes": ""
+  },
+  {
+    "id": 226,
+    "title": "Sweetpea",
+    "genre": "Krimi / thriller",
+    "seasons": 1,
+    "notes": ""
+  },
+  {
+    "id": 227,
+    "title": "Tall Pines",
+    "genre": "Krimi / thriller",
+    "seasons": 1,
+    "notes": ""
+  },
+  {
+    "id": 228,
+    "title": "Teacup",
+    "genre": "Horror",
+    "seasons": 1,
+    "notes": ""
+  },
+  {
+    "id": 229,
+    "title": "Terra Nova",
+    "genre": "Science fiction",
+    "seasons": 1,
+    "notes": ""
+  },
+  {
+    "id": 230,
+    "title": "The 100",
+    "genre": "Science fiction",
+    "seasons": 7,
+    "notes": ""
+  },
+  {
+    "id": 231,
+    "title": "The 4400",
+    "genre": "Science fiction",
+    "seasons": 4,
+    "notes": ""
+  },
+  {
+    "id": 232,
+    "title": "The 8 Show",
+    "genre": "Thriller",
+    "seasons": 1,
+    "notes": ""
+  },
+  {
+    "id": 233,
+    "title": "The A-List",
+    "genre": "Mysterie",
+    "seasons": 2,
+    "notes": ""
+  },
+  {
+    "id": 234,
+    "title": "The Acolyte",
+    "genre": "Science fiction",
+    "seasons": 1,
+    "notes": ""
+  },
+  {
+    "id": 235,
+    "title": "The Bear",
+    "genre": "Komedie",
+    "seasons": 5,
+    "notes": ""
+  },
+  {
+    "id": 236,
+    "title": "The Boroughts",
+    "genre": "Mysterie",
+    "seasons": 1,
+    "notes": ""
+  },
+  {
+    "id": 237,
+    "title": "The Boys",
+    "genre": "Superhelte",
+    "seasons": 5,
+    "notes": ""
+  },
+  {
+    "id": 238,
+    "title": "The End of the F***ing World",
+    "genre": "Komedie",
+    "seasons": 2,
+    "notes": ""
+  },
+  {
+    "id": 239,
+    "title": "The Expanse",
+    "genre": "Science fiction",
+    "seasons": 1,
+    "notes": ""
+  },
+  {
+    "id": 240,
+    "title": "The Fall of the House of Usher",
+    "genre": "Horror",
+    "seasons": 1,
+    "notes": ""
+  },
+  {
+    "id": 241,
+    "title": "The Flash",
+    "genre": "Superhelte",
+    "seasons": 0,
+    "notes": ""
+  },
+  {
+    "id": 242,
+    "title": "The Gift",
+    "genre": "Mysterie",
+    "seasons": 2,
+    "notes": ""
+  },
+  {
+    "id": 243,
+    "title": "The Good Place",
+    "genre": "Komedie",
+    "seasons": 1,
+    "notes": ""
+  },
+  {
+    "id": 244,
+    "title": "The Great",
+    "genre": "Historisk / drama",
+    "seasons": 3,
+    "notes": ""
+  },
+  {
+    "id": 245,
+    "title": "The Handmaids Tale",
+    "genre": "Historisk / drama",
+    "seasons": 1,
+    "notes": ""
+  },
+  {
+    "id": 246,
+    "title": "The Hunting of Bly Manor",
+    "genre": "Horror",
+    "seasons": 1,
+    "notes": ""
+  },
+  {
+    "id": 247,
+    "title": "The I-Land",
+    "genre": "Science fiction",
+    "seasons": 1,
+    "notes": ""
+  },
+  {
+    "id": 248,
+    "title": "The Institute",
+    "genre": "Horror",
+    "seasons": 1,
+    "notes": ""
+  },
+  {
+    "id": 249,
+    "title": "The Last Man On Earth",
+    "genre": "Komedie",
+    "seasons": 4,
+    "notes": ""
+  },
+  {
+    "id": 250,
+    "title": "The Last of Us",
+    "genre": "Horror",
+    "seasons": 2,
+    "notes": ""
+  },
+  {
+    "id": 251,
+    "title": "The Man Who Fell To Earth",
+    "genre": "Science fiction",
+    "seasons": 1,
+    "notes": ""
+  },
+  {
+    "id": 252,
+    "title": "The Midnight Club",
+    "genre": "Horror",
+    "seasons": 1,
+    "notes": ""
+  },
+  {
+    "id": 253,
+    "title": "The Mist",
+    "genre": "Horror",
+    "seasons": 1,
+    "notes": ""
+  },
+  {
+    "id": 254,
+    "title": "The OA",
+    "genre": "Science fiction",
+    "seasons": 2,
+    "notes": ""
+  },
+  {
+    "id": 255,
+    "title": "The Office (US)",
+    "genre": "Komedie",
+    "seasons": 0,
+    "notes": ""
+  },
+  {
+    "id": 256,
+    "title": "The One",
+    "genre": "Science fiction",
+    "seasons": 1,
+    "notes": ""
+  },
+  {
+    "id": 257,
+    "title": "The Outlaws",
+    "genre": "Komedie",
+    "seasons": 3,
+    "notes": ""
+  },
+  {
+    "id": 258,
+    "title": "The Pacific",
+    "genre": "Historisk / drama",
+    "seasons": 1,
+    "notes": ""
+  },
+  {
+    "id": 259,
+    "title": "The Patient",
+    "genre": "Krimi / thriller",
+    "seasons": 1,
+    "notes": ""
+  },
+  {
+    "id": 260,
+    "title": "The Punisher",
+    "genre": "Superhelte",
+    "seasons": 1,
+    "notes": ""
+  },
+  {
+    "id": 261,
+    "title": "The Purge",
+    "genre": "Horror",
+    "seasons": 2,
+    "notes": ""
+  },
+  {
+    "id": 262,
+    "title": "The Rain",
+    "genre": "Science fiction",
+    "seasons": 2,
+    "notes": ""
+  },
+  {
+    "id": 263,
+    "title": "The Residence",
+    "genre": "Krimi / thriller",
+    "seasons": 1,
+    "notes": ""
+  },
+  {
+    "id": 264,
+    "title": "The Returned",
+    "genre": "Horror",
+    "seasons": 1,
+    "notes": ""
+  },
+  {
+    "id": 265,
+    "title": "The Rig",
+    "genre": "Horror",
+    "seasons": 1,
+    "notes": ""
+  },
+  {
+    "id": 266,
+    "title": "The Rings of Power",
+    "genre": "Fantasy",
+    "seasons": 1,
+    "notes": ""
+  },
+  {
+    "id": 267,
+    "title": "The River",
+    "genre": "Horror",
+    "seasons": 1,
+    "notes": ""
+  },
+  {
+    "id": 268,
+    "title": "The Rook",
+    "genre": "Fantasy",
+    "seasons": 1,
+    "notes": ""
+  },
+  {
+    "id": 269,
+    "title": "The Sandman",
+    "genre": "Fantasy",
+    "seasons": 2,
+    "notes": ""
+  },
+  {
+    "id": 270,
+    "title": "The Silent Sea",
+    "genre": "Science fiction",
+    "seasons": 1,
+    "notes": ""
+  },
+  {
+    "id": 271,
+    "title": "The Simpsons",
+    "genre": "Animation",
+    "seasons": 32,
+    "notes": ""
+  },
+  {
+    "id": 272,
+    "title": "The Sinner",
+    "genre": "Krimi / thriller",
+    "seasons": 1,
+    "notes": ""
+  },
+  {
+    "id": 273,
+    "title": "The Society",
+    "genre": "Mysterie",
+    "seasons": 1,
+    "notes": ""
+  },
+  {
+    "id": 274,
+    "title": "The Third Day",
+    "genre": "Horror",
+    "seasons": 1,
+    "notes": ""
+  },
+  {
+    "id": 275,
+    "title": "The Umbrella Academy",
+    "genre": "Superhelte",
+    "seasons": 4,
+    "notes": ""
+  },
+  {
+    "id": 276,
+    "title": "The Walking Dead",
+    "genre": "Horror",
+    "seasons": 0,
+    "notes": ""
+  },
+  {
+    "id": 277,
+    "title": "The Walking Dead - Daryl Dixon",
+    "genre": "Horror",
+    "seasons": 2,
+    "notes": ""
+  },
+  {
+    "id": 278,
+    "title": "The Walking Dead - The Ones Who Lives",
+    "genre": "Horror",
+    "seasons": 1,
+    "notes": ""
+  },
+  {
+    "id": 279,
+    "title": "The Walking Dead: World Beyond",
+    "genre": "Horror",
+    "seasons": 2,
+    "notes": ""
+  },
+  {
+    "id": 280,
+    "title": "The Wheel of Time",
+    "genre": "Fantasy",
+    "seasons": 2,
+    "notes": ""
+  },
+  {
+    "id": 281,
+    "title": "The White Lotus",
+    "genre": "Drama",
+    "seasons": 2,
+    "notes": ""
+  },
+  {
+    "id": 282,
+    "title": "The Wilds",
+    "genre": "Mysterie",
+    "seasons": 1,
+    "notes": ""
+  },
+  {
+    "id": 283,
+    "title": "The Witcher",
+    "genre": "Fantasy",
+    "seasons": 3,
+    "notes": ""
+  },
+  {
+    "id": 284,
+    "title": "The Witcher - Blood Origin",
+    "genre": "Fantasy",
+    "seasons": 4,
+    "notes": ""
+  },
+  {
+    "id": 285,
+    "title": "The Woman in the House Across the Street from the Girl in the Window",
+    "genre": "Krimi / thriller",
+    "seasons": 1,
+    "notes": ""
+  },
+  {
+    "id": 286,
+    "title": "Tidelands",
+    "genre": "Mysterie",
+    "seasons": 0,
+    "notes": ""
+  },
+  {
+    "id": 287,
+    "title": "Titans",
+    "genre": "Superhelte",
+    "seasons": 3,
+    "notes": ""
+  },
+  {
+    "id": 288,
+    "title": "Touch",
+    "genre": "Mysterie",
+    "seasons": 2,
+    "notes": ""
+  },
+  {
+    "id": 289,
+    "title": "Travelers",
+    "genre": "Science fiction",
+    "seasons": 3,
+    "notes": ""
+  },
+  {
+    "id": 290,
+    "title": "Troy Fall of a City",
+    "genre": "Historisk / drama",
+    "seasons": 1,
+    "notes": ""
+  },
+  {
+    "id": 291,
+    "title": "Twistet Metal",
+    "genre": "Action / eventyr",
+    "seasons": 2,
+    "notes": ""
+  },
+  {
+    "id": 292,
+    "title": "Two and a Half Men",
+    "genre": "Komedie",
+    "seasons": 0,
+    "notes": ""
+  },
+  {
+    "id": 293,
+    "title": "Tyrant",
+    "genre": "Krimi / thriller",
+    "seasons": 2,
+    "notes": ""
+  },
+  {
+    "id": 294,
+    "title": "Under the Dome",
+    "genre": "Science fiction",
+    "seasons": 3,
+    "notes": ""
+  },
+  {
+    "id": 295,
+    "title": "Undone",
+    "genre": "Science fiction",
+    "seasons": 2,
+    "notes": ""
+  },
+  {
+    "id": 296,
+    "title": "Unkown Soldier",
+    "genre": "Historisk / drama",
+    "seasons": 1,
+    "notes": ""
+  },
+  {
+    "id": 297,
+    "title": "Upload",
+    "genre": "Science fiction",
+    "seasons": 2,
+    "notes": ""
+  },
+  {
+    "id": 298,
+    "title": "Utopia",
+    "genre": "Science fiction",
+    "seasons": 1,
+    "notes": ""
+  },
+  {
+    "id": 299,
+    "title": "Van Helsing",
+    "genre": "Horror",
+    "seasons": 2,
+    "notes": ""
+  },
+  {
+    "id": 300,
+    "title": "Vikings",
+    "genre": "Historisk / drama",
+    "seasons": 6,
+    "notes": ""
+  },
+  {
+    "id": 301,
+    "title": "Vikings Valhalla",
+    "genre": "Historisk / drama",
+    "seasons": 3,
+    "notes": ""
+  },
+  {
+    "id": 302,
+    "title": "Wandavision",
+    "genre": "Superhelte",
+    "seasons": 1,
+    "notes": ""
+  },
+  {
+    "id": 303,
+    "title": "Warrior Nun",
+    "genre": "Fantasy",
+    "seasons": 1,
+    "notes": ""
+  },
+  {
+    "id": 304,
+    "title": "Wednsday",
+    "genre": "Fantasy",
+    "seasons": 2,
+    "notes": ""
+  },
+  {
+    "id": 305,
+    "title": "Welcome to Eden",
+    "genre": "Mysterie",
+    "seasons": 1,
+    "notes": ""
+  },
+  {
+    "id": 306,
+    "title": "West World",
+    "genre": "Science fiction",
+    "seasons": 1,
+    "notes": ""
+  },
+  {
+    "id": 307,
+    "title": "What/If",
+    "genre": "Krimi / thriller",
+    "seasons": 1,
+    "notes": ""
+  },
+  {
+    "id": 308,
+    "title": "Widow's Bay",
+    "genre": "Horror",
+    "seasons": 1,
+    "notes": ""
+  },
+  {
+    "id": 309,
+    "title": "Yellowjackets",
+    "genre": "Horror",
+    "seasons": 3,
+    "notes": ""
+  },
+  {
+    "id": 310,
+    "title": "You",
+    "genre": "Krimi / thriller",
+    "seasons": 5,
+    "notes": ""
+  },
+  {
+    "id": 311,
+    "title": "You VS Wild",
+    "genre": "Reality / dokumentar",
+    "seasons": 1,
+    "notes": ""
+  },
+  {
+    "id": 312,
+    "title": "Young Sheldon",
+    "genre": "Komedie",
+    "seasons": 0,
+    "notes": ""
+  },
+  {
+    "id": 313,
+    "title": "Youre the Worst",
+    "genre": "Komedie",
+    "seasons": 5,
+    "notes": ""
+  },
+  {
+    "id": 314,
+    "title": "Z Nation",
+    "genre": "Horror",
+    "seasons": 5,
+    "notes": ""
+  }
+]
