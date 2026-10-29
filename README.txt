@@ -1,1 +1,1 @@
-Upload index.html til GitHub Pages som erstatning for den tidligere fil. Kompakt tabel og nyt overblik over mest sete genre. Microsoft/OneDrive-funktioner er uændrede.
+CSP-rettet version af Mit Serieoverblik. Upload ALLE tre filer (index.html, app.js og favicon.svg) i samme mappe på GitHub Pages. Microsoft-login og OneDrive-funktioner er bevaret. Kontroller at Entra redirect URI matcher din GitHub Pages URL.
